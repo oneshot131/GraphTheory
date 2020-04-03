@@ -12,11 +12,14 @@ Thompson's construction is a method of transforming a regular expression into an
 The shunting-yard algorithm is a method for parsing mathematical expressions specified in infix notation. It can produce either a postfix notation string. The algorithm was invented by Edsger Dijkstra and named the "shunting yard" algorithm because its operation resembles that of a railroad shunting yard.
 
 # Research:
-# Regex --- https://www.w3schools.com/python/python_regex.asp
+# Regex --- 
+https://www.w3schools.com/python/python_regex.asp
 
-# Thompson's construction --- https://en.wikipedia.org/wiki/Thompson%27s_construction
+# Thompson's construction --- 
+https://en.wikipedia.org/wiki/Thompson%27s_construction
 
-# Shunting Yard Algorithm --- https://en.wikipedia.org/wiki/Shunting-yard_algorithm
+# Shunting Yard Algorithm --- 
+https://en.wikipedia.org/wiki/Shunting-yard_algorithm
 
 # Acknowledgments:
 Ian McLoughlin - Provided tutorial Videos to follow
